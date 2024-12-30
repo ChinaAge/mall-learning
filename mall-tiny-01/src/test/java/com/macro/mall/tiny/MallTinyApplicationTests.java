@@ -11,6 +11,7 @@ public class MallTinyApplicationTests {
 
     @Test
     public void contextLoads() {
+        String str="我是大傻逼";
     }
 
 }
